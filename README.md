@@ -1,11 +1,11 @@
 # Charlies-Chicken
-Single-player 3D psychological horror game developed independently on Roblox using Luau scripting. Features custom player controls, interactive objects, and intuitive UI design.
+Single-player 3D psychological horror game developed independently on Roblox using Luau scripting, featuring custom player controls, interactive objects, and intuitive UI design.
 
 ## Overview
-*Charlie's Chicken* is a single-player horror game currently being developed within Roblox Studio using the Luau scripting language. Players navigate an immersive and suspenseful story environment, where interactions with the world enable them to progress through the narrative. The game features an intuitive and clear UI design, an immersive world-building experience, and well-placed horror elements, as well as interactive objects and systems that allow players to pick up, examine, and utilise items throughout each level. 
+*Charlie's Chicken* is a single-player horror game currently being developed within Roblox Studio using the Luau scripting language. Players navigate an immersive and suspenseful story environment, interacting with objects to progress through the narrative. The game features an intuitive and clear UI design, immersive world-building and well-placed horror elements, as well as interactive objects and systems that allow players to pick up, examine, and utilise items throughout each level. 
 
 ## Key Features
-- Custom implemented player controls and interaction mechanics
+- Custom player controls and interaction mechanics
 - Interactive objects: doors, tools, and switches
 - UI: menus, HUD, objective and notification systems
 
