@@ -20,6 +20,17 @@ Single-player 3D psychological horror game developed independently on Roblox usi
 ## Note
 This repository is an ongoing project, containing scripts imported from the Roblox Studio project. Assets and Roblox place files are excluded to reduce repository size. 
 
+## Credits / Acknowledgements
+- The *Realism* module used in this project was sourced from the Roblox Studio Toolbox. This adds first-person view, walking sounds, and realistic camera movements.
+  Original author: [@Maximum_ADHD](https://www.roblox.com/users/2032622/profile)  
+  Link: [*Character Realism*](https://create.roblox.com/store/asset/8421693529/Character-Realism)
+- The *CameraBobble* script used in this project was sourced from the Roblox Studio Toolbox. This adds slight camera movement when walking.
+  Original author: [@Necrili](https://www.roblox.com/users/646854573/profile)
+  Link: [*CameraBobble*](https://create.roblox.com/store/asset/4771304280/CameraBobble)
+- The *Camera Shaker* module used in this project was sourced from the Roblox Studio Toolbox. This adds camera shake upon event call.
+  Original author: [Sleitnick](https://github.com/Sleitnick)
+  Link: [*RbxCameraShaker*](https://github.com/Sleitnick/RbxCameraShaker)
+
 ## Author
 **Adam Hurd**  
 Aspiring Software Engineer | Independent Games Programmer  
