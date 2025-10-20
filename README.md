@@ -22,7 +22,7 @@ This repository is an ongoing project, containing scripts imported from the Robl
 
 ## Credits / Acknowledgements
 - The *Realism* module used in this project was sourced from the Roblox Studio Toolbox. This adds first-person view, walking sounds, and realistic camera movements.
-  Original author: [@Maximum_ADHD](https://www.roblox.com/users/2032622/profile)  
+  Original author: [@Maximum_ADHD](https://www.roblox.com/users/2032622/profile)
   Link: [*Character Realism*](https://create.roblox.com/store/asset/8421693529/Character-Realism)
 - The *CameraBobble* script used in this project was sourced from the Roblox Studio Toolbox. This adds slight camera movement when walking.
   Original author: [@Necrili](https://www.roblox.com/users/646854573/profile)
